@@ -1,0 +1,15 @@
+c:\Users\Jaqueline Lanca\Documents\CursoMicrosoft\CalculareImprimirNotasAlunos\bin\Debug\net8.0\CalculareImprimirNotasAlunos.exe
+c:\Users\Jaqueline Lanca\Documents\CursoMicrosoft\CalculareImprimirNotasAlunos\bin\Debug\net8.0\CalculareImprimirNotasAlunos.deps.json
+c:\Users\Jaqueline Lanca\Documents\CursoMicrosoft\CalculareImprimirNotasAlunos\bin\Debug\net8.0\CalculareImprimirNotasAlunos.runtimeconfig.json
+c:\Users\Jaqueline Lanca\Documents\CursoMicrosoft\CalculareImprimirNotasAlunos\bin\Debug\net8.0\CalculareImprimirNotasAlunos.dll
+c:\Users\Jaqueline Lanca\Documents\CursoMicrosoft\CalculareImprimirNotasAlunos\bin\Debug\net8.0\CalculareImprimirNotasAlunos.pdb
+c:\Users\Jaqueline Lanca\Documents\CursoMicrosoft\CalculareImprimirNotasAlunos\obj\Debug\net8.0\CalculareImprimirNotasAlunos.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Jaqueline Lanca\Documents\CursoMicrosoft\CalculareImprimirNotasAlunos\obj\Debug\net8.0\CalculareImprimirNotasAlunos.AssemblyInfoInputs.cache
+c:\Users\Jaqueline Lanca\Documents\CursoMicrosoft\CalculareImprimirNotasAlunos\obj\Debug\net8.0\CalculareImprimirNotasAlunos.AssemblyInfo.cs
+c:\Users\Jaqueline Lanca\Documents\CursoMicrosoft\CalculareImprimirNotasAlunos\obj\Debug\net8.0\CalculareImprimirNotasAlunos.csproj.CoreCompileInputs.cache
+c:\Users\Jaqueline Lanca\Documents\CursoMicrosoft\CalculareImprimirNotasAlunos\obj\Debug\net8.0\CalculareImprimirNotasAlunos.sourcelink.json
+c:\Users\Jaqueline Lanca\Documents\CursoMicrosoft\CalculareImprimirNotasAlunos\obj\Debug\net8.0\CalculareImprimirNotasAlunos.dll
+c:\Users\Jaqueline Lanca\Documents\CursoMicrosoft\CalculareImprimirNotasAlunos\obj\Debug\net8.0\refint\CalculareImprimirNotasAlunos.dll
+c:\Users\Jaqueline Lanca\Documents\CursoMicrosoft\CalculareImprimirNotasAlunos\obj\Debug\net8.0\CalculareImprimirNotasAlunos.pdb
+c:\Users\Jaqueline Lanca\Documents\CursoMicrosoft\CalculareImprimirNotasAlunos\obj\Debug\net8.0\CalculareImprimirNotasAlunos.genruntimeconfig.cache
+c:\Users\Jaqueline Lanca\Documents\CursoMicrosoft\CalculareImprimirNotasAlunos\obj\Debug\net8.0\ref\CalculareImprimirNotasAlunos.dll
